@@ -24,9 +24,11 @@ The Mathematica notebook "stringyfnquarksenv_egs.nb" gives a list of useable fun
 ## Citation
 If you use this code, please cite the following bib entries:
 
+```
 @article{stringyFNQuarks_package,
   author = "Constantin, Andrei and Fraser-Taliente, Cristofero and Harvey, Thomas R. and Leung, Lucas T. Y. and Lukas, Andre",
   title = "{Mathematica package for string FN models}",
   url="https://github.com/LucasLeung149/StringyFNQuarksEnv",
   note="https://github.com/LucasLeung149/StringyFNQuarksEnv"
 }
+```
