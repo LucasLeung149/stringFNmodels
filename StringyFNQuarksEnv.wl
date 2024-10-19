@@ -1190,13 +1190,14 @@ GAConvertStateVectoBitlistFix::usage="Need to add this in!";*)
 (*Initialise*)
 
 
-(* ::Subsection::Closed:: *)
+(* ::Subsection:: *)
 (*Start-up messages*)
 
 
 Begin["`Private`"]
 Print[Style["StringyFNQuarksEnv: RL/GA Environment for Froggatt-Nielsen Mass Model Building with Non-pertubative Effects",Underlined,FontColor -> Blue,TextAlignment -> Center, FontSize -> 14,FontFamily->"Times"]];
-Print[Style["Last updated 16 Aug, 2024 by Lucas Leung.",FontColor -> Black,TextAlignment -> Center, FontSize -> 14,FontFamily->"Times"]];
+Print[Style["Constantin, Andrei and Fraser-Taliente, Cristofero and Harvey, Thomas R. and Leung, Lucas T. Y. and Lukas, Andre.",FontColor -> Black,TextAlignment -> Center, FontSize -> 14,FontFamily->"Times"]];
+Print[Style["Last updated 19 Oct, 2024 by Lucas Leung.",FontColor -> Black,TextAlignment -> Center, FontSize -> 14,FontFamily->"Times"]];
 Print[Style["Execute \!\(\*
 StyleBox[\"?\",\nFontWeight->\"Bold\"]\)\!\(\*
 StyleBox[\"StringyFNQuarksEnv\",\nFontWeight->\"Bold\"]\) for help. Current StringyFNQuarksEnv options:",FontColor -> Black,TextAlignment -> Center, FontSize -> 14,FontFamily->"Times"]];
