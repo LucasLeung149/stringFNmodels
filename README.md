@@ -1,4 +1,4 @@
-# StringyFNQuarksEnv
+# stringFNmodels
 Latest Version of the code: updated 19 October, 2024.
 
 Mathematica code for computing flavour parameters for string FN models. This package is implemented in arXiV:2410.XXXXX. The main use of the package is to act as the GA Environment to be used with the package linked in https://github.com/harveyThomas4692/GAMathematica.
