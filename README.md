@@ -21,6 +21,8 @@ after the package is launched. This contains the details of the different option
 ## Examples
 The Mathematica notebook "stringyfnquarksenv_egs.nb" gives a list of useable functions and an example of each of their use.
 
+The zip file "state_archive.zip" gives the list of states found in the runs. They can be extracted using the Data Analysis functions in the Mathematica module "stringFNmodels.wl", see ?DataAnalModules in the package for details.
+
 ## Citation
 If you use this code, please cite the following bib entries:
 
